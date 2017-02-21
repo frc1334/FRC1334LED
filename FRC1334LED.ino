@@ -34,6 +34,5 @@ void loop()
 	{
 		leds[i] = COLOUR;
 		FastLED.show();
-		delay(500);
 	}
 }
