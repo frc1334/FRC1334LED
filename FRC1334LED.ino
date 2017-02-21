@@ -1,6 +1,6 @@
 #include "FastLED.h"
 
-#define NUM_LEDS 36
+#define NUM_LEDS 1500
 // Arduino pin used for Data
 #define DATA 6 
 // Data pin for alliance selection
